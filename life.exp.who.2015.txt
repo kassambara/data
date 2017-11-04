@@ -1,0 +1,191 @@
+region	lifeExp
+Austria	81.5
+Belarus	72.3
+Comoros	63.5
+Dominican Republic	73.9
+Ecuador	76.2
+Eritrea	64.7
+Gambia	61.1
+Indonesia	69.1
+Jordan	74.1
+Lao People's Democratic Republic	65.7
+Belgium	81.1
+Switzerland	83.4
+Cuba	79.1
+Egypt	70.9
+Spain	82.8
+Ethiopia	64.8
+Fiji	69.9
+Greece	81
+India	68.3
+Iran (Islamic Republic of)	75.5
+Kenya	63.4
+Bulgaria	74.5
+Bahrain	76.9
+Democratic Republic of the Congo	59.8
+Congo	64.7
+United Kingdom of Great Britain and Northern Ireland	81.2
+Georgia	74.4
+Israel	82.5
+Italy	82.7
+Angola	52.4
+United Arab Emirates	77.1
+Argentina	76.3
+Brazil	75
+Barbados	75.5
+Cyprus	80.5
+Germany	81
+Guyana	66.2
+Honduras	74.6
+Cambodia	68.7
+Kiribati	66.3
+Burundi	59.6
+Bolivia (Plurinational State of)	70.7
+Chile	80.5
+Finland	81.1
+NA	71.4
+Grenada	73.6
+Kazakhstan	70.2
+Afghanistan	60.5
+NA	60
+NA	76.9
+Armenia	74.8
+Australia	82.8
+Brunei Darussalam	77.7
+Djibouti	63.5
+Denmark	80.6
+Haiti	63.5
+Kuwait	74.7
+Bosnia and Herzegovina	77.4
+Central African Republic	52.5
+Cabo Verde	73.3
+Guinea	59
+Guinea-Bissau	58.9
+Hungary	75.8
+Burkina Faso	59.9
+Bangladesh	71.8
+Côte d'Ivoire	53.3
+Cameroon	57.3
+France	82.4
+Micronesia (Federated States of)	69.4
+Iraq	68.9
+Saint Lucia	75.2
+Maldives	78.5
+Mauritania	63.1
+Malawi	58.3
+Portugal	81.1
+Somalia	55
+Seychelles	73.2
+Turkey	75.8
+Samoa	74
+Sri Lanka	74.9
+Lithuania	73.6
+Namibia	65.8
+Romania	75
+Chad	53.1
+Togo	59.9
+Vanuatu	72
+NA	76.6
+Zambia	61.8
+Luxembourg	82
+Niger	61.8
+Nicaragua	74.8
+Russian Federation	70.5
+Saudi Arabia	74.5
+Senegal	66.7
+Tajikistan	69.7
+Zimbabwe	60.7
+Liberia	61.4
+Republic of Moldova	72.1
+Mongolia	68.8
+Norway	81.8
+Poland	77.5
+Sudan	64.1
+Sierra Leone	50.1
+USA	79.3
+Saint Vincent and the Grenadines	73.2
+Lebanon	74.9
+Morocco	74.3
+Madagascar	65.5
+Mozambique	57.6
+Netherlands	81.9
+Democratic People's Republic of Korea	70.6
+Solomon Islands	69.2
+Slovenia	80.8
+Tonga	73.5
+Mauritius	74.6
+Nepal	69.2
+Paraguay	74
+Swaziland	58.9
+Tunisia	75.3
+Venezuela (Bolivarian Republic of)	74.1
+Yemen	65.7
+Mali	58.2
+Oman	76.6
+Pakistan	66.4
+Serbia	75.6
+South Sudan	57.3
+Sao Tome and Principe	67.5
+Uganda	62.3
+Albania	77.8
+Myanmar	66.6
+Montenegro	76.1
+Peru	75.5
+Philippines	68.5
+Slovakia	76.7
+Ukraine	71.3
+Uruguay	77
+Costa Rica	79.6
+NA	68.8
+Estonia	77.6
+Ireland	81.4
+Kyrgyzstan	71.1
+New Zealand	81.6
+Trinidad and Tobago	71.2
+Viet Nam	76
+Colombia	74.8
+Gabon	66
+Jamaica	76.2
+Latvia	74.6
+Nigeria	54.5
+Rwanda	66.1
+Thailand	74.9
+Turkmenistan	66.3
+Benin	60
+NA	76.8
+Iceland	82.7
+Lesotho	53.7
+Malaysia	75
+Qatar	78.2
+South Africa	62.9
+Azerbaijan	72.7
+Algeria	75.6
+Japan	83.7
+Papua New Guinea	62.9
+NA	69
+Uzbekistan	69.4
+Bahamas	76.1
+Canada	82.2
+Ghana	62.4
+Equatorial Guinea	58.2
+Singapore	83.1
+Sweden	82.4
+Timor-Leste	68.3
+Belize	70.1
+China	76.1
+Libya	72.7
+Mexico	76.7
+El Salvador	73.5
+Syrian Arab Republic	64.5
+Czechia	78.8
+Guatemala	71.9
+The former Yugoslav republic of Macedonia	75.7
+Panama	77.8
+United Republic of Tanzania	61.8
+Antigua and Barbuda	76.4
+Bhutan	69.8
+Botswana	65.7
+Croatia	78
+Republic of Korea	82.3
+Malta	81.7
+Suriname	71.6
